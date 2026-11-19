@@ -1,0 +1,7 @@
+[
+  {"id":1,"en":"The Foundations","zh":"咖啡基礎","chapters":["01","02"]},
+  {"id":2,"en":"Origins & Terroir","zh":"產地與風土","chapters":["03"]},
+  {"id":3,"en":"Processing & Roasting","zh":"加工與烘焙","chapters":["04","05","06"]},
+  {"id":4,"en":"Tools & Brewing","zh":"器材與沖煮","chapters":["07","08","09"]},
+  {"id":5,"en":"Tasting & Living","zh":"品飲與應用","chapters":["10","11"]}
+]

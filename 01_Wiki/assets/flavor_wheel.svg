@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 520">
+<rect width="700" height="520" rx="18" fill="#f4ead4"/><text x="350" y="42" text-anchor="middle" font-family="Georgia,serif" font-size="28" fill="#304638">COFFEE FLAVOR NOTES｜咖啡風味輪</text>
+<g transform="translate(350 285)" stroke="#f4ead4" stroke-width="3">
+<circle r="68" fill="#c58a4a"/><circle r="142" fill="#8d9b70"/><circle r="215" fill="#b66b4a"/>
+<g fill="#fff8e8" text-anchor="middle" font-family="Noto Sans TC,sans-serif" font-size="19"><text y="-12">風味</text><text y="16">Flavor</text><text y="-92">花香</text><text y="100">果香</text><text x="-145" y="12">堅果</text><text x="145" y="12">可可</text><text x="-85" y="-175">柑橘</text><text x="90" y="-175">莓果</text><text x="-90" y="185">香料</text><text x="90" y="185">烘烤</text></g>
+</g><text x="350" y="500" text-anchor="middle" font-size="14" fill="#725c43">Illustrative categories only · 感官描述依樣品與品飲者而異</text></svg>

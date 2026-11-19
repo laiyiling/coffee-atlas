@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 380">
+<rect width="1000" height="380" rx="20" fill="#f4ead4"/><text x="500" y="45" text-anchor="middle" font-family="Georgia,serif" font-size="28" fill="#304638">POST-HARVEST PROCESSING｜咖啡豆處理法</text>
+<g font-family="Noto Sans TC, sans-serif" text-anchor="middle" fill="#30291f">
+<g transform="translate(45 100)"><rect width="270" height="220" rx="16" fill="#e9d4aa" stroke="#9d7445" stroke-width="3"/><circle cx="135" cy="65" r="38" fill="#9a3f2e"/><text x="135" y="135" font-size="24">日曬 Natural</text><text x="135" y="172" font-size="16">整顆果實乾燥</text><text x="135" y="198" font-size="14">Drying whole cherries</text></g>
+<g transform="translate(365 100)"><rect width="270" height="220" rx="16" fill="#e2e3cf" stroke="#71805e" stroke-width="3"/><circle cx="135" cy="65" r="38" fill="#d9c6a0"/><text x="135" y="135" font-size="24">水洗 Washed</text><text x="135" y="172" font-size="16">去果皮果肉、清除黏液層</text><text x="135" y="198" font-size="14">Pulp · ferment · wash</text></g>
+<g transform="translate(685 100)"><rect width="270" height="220" rx="16" fill="#edd8b5" stroke="#b07b45" stroke-width="3"/><circle cx="135" cy="65" r="38" fill="#b85c35"/><text x="135" y="135" font-size="24">蜜處理 Honey</text><text x="135" y="172" font-size="16">去皮後保留部分黏液層</text><text x="135" y="198" font-size="14">Pulped with mucilage</text></g></g></svg>

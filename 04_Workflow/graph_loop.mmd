@@ -1,0 +1,15 @@
+flowchart TD
+    A["Collect sources<br/>15 references"] --> B["Register and map evidence"]
+    B --> C["Graph: split 11 topics into 5 volumes"]
+    C --> D1["Draft Markdown notes"]
+    C --> D2["Prepare wiki content model"]
+    C --> D3["Prepare 30 teaching slides"]
+    D1 --> E["Integrate Wiki and magazine"]
+    D2 --> E
+    D3 --> E
+    E --> F["Quality gate: 6 checks"]
+    F --> G{"Pass?"}
+    G -- "No, round 1 or 2" --> H["Correct identified issues"]
+    H --> F
+    G -- "Yes" --> I["Package and report"]
+    G -- "Still failing after 2 rounds" --> J["Log issue for manual review"]
